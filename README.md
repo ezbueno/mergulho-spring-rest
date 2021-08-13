@@ -27,3 +27,10 @@
 * Simplificando a transformação de objetos com ModelMapper
 * Implementando sub-recursos
 * Implementando ação não-CRUD
+
+# Ferramenta
+* Spring Tool Suite
+
+# Tecnologias
+* Java 16
+* MySQL
