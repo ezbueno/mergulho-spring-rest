@@ -1,4 +1,4 @@
-# Mergulho Spring Rest:
+# Mergulho Spring Rest
 * Projeto desenvolvido durante o evento Mergulho Spring Rest da AlgaWorks
 
 # Módulo 1
